@@ -32,5 +32,3 @@ It prevents ticket loss, theft, and incorrect pricing, and provides scalable, hi
 5. User can view/download ticket any time.
 6. Conductor can verify ticket using a scan endpoint.
 
-**Folder Structure**
-
